@@ -19,32 +19,33 @@ const snacks = [
   {
     emoji: "🍯",
     name: "HoneyBuns",
-    price: 2.00,
+    price: 1.00,
     category: "Pastries",
-    badge: "⭐ Best Seller"
+    badge: "Almost Sold out"
   },
   {
     emoji: "🟢",
     name: "Small Sprite Can",
-    price: 1.00,
-    category: "Drinks"
+    price: 1.80,
+    category: "Drinks",
+    badge: "Almost Sold out"
   },
   {
     emoji: "🌶️",
     name: "Any Kind of Spicy Chips",
     price: 1.00,
-    category: "Chips",
-    badge: "Popular"
+    category: "Chips"
   },
   {
     emoji: "🟢",
-    name: "Large Sprites",
+    name: "Large Sprite bottles",
     price: 2.00,
-    category: "Drinks"
+    category: "Drinks",
+    badge: "Almost Sold out"
   },
   {
     emoji: "🍋",
-    name: "Small Arizona",
+    name: "AriZona Lemonade",
     price: 1.00,
     category: "Drinks"
   }
