@@ -26,7 +26,7 @@ const snacks = [
     emoji: "🍹",
     name: "AriZona Tea",
     price: 2.00,
-    category: "Drink"
+    category: "Drinks"
   },
   {
     emoji: "🍬",
