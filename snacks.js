@@ -24,21 +24,28 @@ const snacks = [
   },
   {
     emoji: "🍹",
-    name: "AriZona Tea",
+    name: "AriZona",
     price: 2.00,
-    category: "Drinks"
-  },
-  {
-    emoji: "🍬",
-    name: "Sour Patch Kids",
-    price: 2.00,
-    category: "Sour Candy"
+    category: "Drinks",
+    badge: "Popular"
   },
   {
     emoji: "🔥",
     name: "Spicy Chips",
     price: 1.00,
     category: "Chips"
+  },
+  {
+    emoji: "🔴",
+    name: "Sour Patch Kids",
+    price: 2.00,
+    category: "Candy"
+  },
+  {
+    emoji: "🟣",
+    name: "KooL Aid",
+    price: 1.00,
+    category: "Drinks"
   },
   {
     emoji: "🍋",
