@@ -17,6 +17,12 @@
 
 const snacks = [
   {
+    emoji: "🔥",
+    name: "Spicy Chips",
+    price: 1.25,
+    category: "Chips"
+  },
+  {
     emoji: "🟢",
     name: "Small Sprite Can",
     price: 1.00,
@@ -42,22 +48,10 @@ const snacks = [
     category: "Drinks"
   },
   {
-    emoji: "🔥",
-    name: "Spicy Chips",
-    price: 1.25,
-    category: "Chips"
-  },
-  {
     emoji: "🍋",
     name: "AriZona Lemonade",
     price: 1.00,
     category: "Drinks"
-  },
-  {
-    emoji: "🔴",
-    name: "Sour Patch Kids",
-    price: 2.00,
-    category: "Candy"
   },
   {
     emoji: "💲",
@@ -65,5 +59,11 @@ const snacks = [
     price: 2.00,
     category: "Deals",
     badge: "Best Value"
+  },
+  {
+    emoji: "🔴",
+    name: "Sour Patch Kids",
+    price: 2.00,
+    category: "Candy"
   }
 ];
