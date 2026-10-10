@@ -18,8 +18,14 @@
 const snacks = [
   {
     emoji: "🟢",
-    name: "Small Sprite",
+    name: "Small Sprite Can",
     price: 1.00,
+    category: "Drinks"
+  },
+  {
+    emoji: "🟢",
+    name: "Large Sprite  Bottles",
+    price: 2.00,
     category: "Drinks"
   },
   {
@@ -30,10 +36,22 @@ const snacks = [
     badge: "Popular"
   },
   {
+    emoji: "🟣",
+    name: "Kool Aid",
+    price: 100.00,
+    category: "Drinks"
+  },
+  {
     emoji: "🔥",
     name: "Spicy Chips",
-    price: 1.00,
+    price: 1.25,
     category: "Chips"
+  },
+  {
+    emoji: "🍋",
+    name: "AriZona Lemonade",
+    price: 1.00,
+    category: "Drinks"
   },
   {
     emoji: "🔴",
@@ -42,15 +60,10 @@ const snacks = [
     category: "Candy"
   },
   {
-    emoji: "🟣",
-    name: "KooL Aid",
-    price: 1.00,
-    category: "Drinks"
-  },
-  {
-    emoji: "🍋",
-    name: "AriZona Lemonade",
-    price: 1.00,
-    category: "Drinks"
+    emoji: "💲",
+    name: "Chips+Sprite+HoneyBun",
+    price: 2.00,
+    category: "Deals",
+    badge: "Best Value"
   }
 ];
