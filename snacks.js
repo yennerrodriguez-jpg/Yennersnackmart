@@ -49,6 +49,12 @@ const snacks = [
     category: "Drinks"
   },
   {
+    emoji: "🥤",
+    name: "Kool Aid",
+    price: 1.00,
+    category: "Drinks"
+  },
+  {
     emoji: "💲",
     name: "Get a Dollar of when you order online",
     price: 1.00,
