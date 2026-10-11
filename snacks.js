@@ -56,9 +56,9 @@ const snacks = [
   },
   {
     emoji: "💲",
-    name: "Get a Dollar of when you order online",
+    name: "Get a Dollar of when you order ONLINE",
     price: 1.00,
     category: "Discount",
-    badge: "1 Per Person  - Order in Advanced"
+    badge: "1 Per Person  - Purchase Necessary"
   }
 ];
