@@ -17,34 +17,29 @@
 
 const snacks = [
   {
-    emoji: "🔥",
+    emoji: "🌶️",
     name: "Spicy Chips",
-    price: 1.25,
-    category: "Chips"
+    price: 1.00,
+    category: "Chips",
+    badge: "Popular"
+  },
+  {
+    emoji: "🎈",
+    name: "Airheads",
+    price: 2.00,
+    category: "Sweets",
+    badge: "$2 for 3 (Best Value)"
+  },
+  {
+    emoji: "🍯",
+    name: "HoneyBuns",
+    price: 1.00,
+    category: "Sweets"
   },
   {
     emoji: "🟢",
     name: "Small Sprite Can",
     price: 1.00,
-    category: "Drinks"
-  },
-  {
-    emoji: "🟢",
-    name: "Large Sprite  Bottles",
-    price: 2.00,
-    category: "Drinks"
-  },
-  {
-    emoji: "🍹",
-    name: "AriZona",
-    price: 2.00,
-    category: "Drinks",
-    badge: "Popular"
-  },
-  {
-    emoji: "🟣",
-    name: "Kool Aid",
-    price: 100.00,
     category: "Drinks"
   },
   {
@@ -55,15 +50,9 @@ const snacks = [
   },
   {
     emoji: "💲",
-    name: "Chips+Sprite+HoneyBun",
-    price: 2.00,
-    category: "Deals",
-    badge: "Best Value"
-  },
-  {
-    emoji: "🔴",
-    name: "Sour Patch Kids",
-    price: 2.00,
-    category: "Candy"
+    name: "Get a Dollar of when you order online",
+    price: 1.00,
+    category: "Discount",
+    badge: "1 Per Person  - Order in Advanced"
   }
 ];
