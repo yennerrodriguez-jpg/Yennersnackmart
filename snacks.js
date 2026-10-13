@@ -27,21 +27,21 @@ const snacks = [
     name: "Airheads",
     price: 1.00,
     category: "Sweets",
-    badge: "$1 for 2"
+    badge: "Sold out"
   },
   {
     emoji: "🎈",
     name: "Airheads $2 for 3",
     price: 2.00,
     category: "Sweets",
-    badge: "$2 for 3"
+    badge: "Sold out"
   },
   {
     emoji: "🍯",
     name: "HoneyBun",
     price: 1.00,
     category: "Sweets",
-    badge: "$1 for 2"
+    badge: "Sold out"
   },
   {
     emoji: "🟢",
@@ -55,14 +55,14 @@ const snacks = [
     name: "Large soda bottle (Any kind)",
     price: 2.00,
     category: "Drinks",
-    badge: "$1 for 2"
+    badge: "Sold out"
   },
   {
     emoji: "🍋",
     name: "AriZona Lemonade",
     price: 1.00,
     category: "Drinks",
-    badge: "$1 for 2"
+    badge: "Sold out"
   },
   {
     emoji: "💲",
