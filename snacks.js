@@ -31,34 +31,38 @@ const snacks = [
   },
   {
     emoji: "🎈",
-    name: "Airhead $2 for 3",
+    name: "Airheads $2 for 3",
     price: 2.00,
-    category: "Sweets"
+    category: "Sweets",
+    badge: "$2 for 3"
   },
   {
     emoji: "🍯",
     name: "HoneyBun",
     price: 1.00,
-    category: "Sweet"
+    category: "Sweets",
+    badge: "$1 for 2"
   },
   {
     emoji: "🟢",
     name: "Sprite soda small can",
     price: 1.00,
     category: "Drinks",
-    badge: "⭐ Best Seller"
+    badge: "Sold out"
   },
   {
     emoji: "🟢",
-    name: "Large soda bottle (Anykind)",
+    name: "Large soda bottle (Any kind)",
     price: 2.00,
-    category: "Drinks"
+    category: "Drinks",
+    badge: "$1 for 2"
   },
   {
     emoji: "🍋",
     name: "AriZona Lemonade",
     price: 1.00,
-    category: "Drinks"
+    category: "Drinks",
+    badge: "$1 for 2"
   },
   {
     emoji: "💲",
