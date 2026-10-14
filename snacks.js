@@ -17,10 +17,49 @@
 
 const snacks = [
   {
-    emoji: "🛑",
-    name: "Sold Out For today",
+    emoji: "🌶️",
+    name: "Spicy chips",
+    price: 1.00,
+    category: "Chips",
+    badge: "Popular"
+  },
+  {
+    emoji: "🍭",
+    name: "Trolli Gummies",
+    price: 2.00,
+    category: "Sweets",
+    badge: "New"
+  },
+  {
+    emoji: "🟢",
+    name: "Small Sprite can",
+    price: 1.00,
+    category: "Drinks"
+  },
+  {
+    emoji: "🟢",
+    name: "Any kind of large soda bottle",
+    price: 2.00,
+    category: "Drinks"
+  },
+  {
+    emoji: "🍋",
+    name: "AriZona Lemonade",
+    price: 1.00,
+    category: "Drinks"
+  },
+  {
+    emoji: "🎈",
+    name: "Airheads",
+    price: 2.00,
+    category: "Sweets",
+    badge: "$2 for 3"
+  },
+  {
+    emoji: "💲",
+    name: "$1 BONUS  the first time you order ONLINE",
     price: 0.00,
-    category: "Message",
-    badge: "We will open again at 5:00 for Pre orders"
+    category: "Deals",
+    badge: "1 per person- Purchase Necessary"
   }
 ];
