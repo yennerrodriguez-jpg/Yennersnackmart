@@ -20,6 +20,7 @@ const snacks = [
     emoji: "💲",
     name: "Buy something ONLINE for an EXTRA $1 of FREE SNACKS",
     price: 0.00,
-    category: "Deals"
+    category: "Deals",
+    badge: "Limit 1 Person"
   }
 ];
