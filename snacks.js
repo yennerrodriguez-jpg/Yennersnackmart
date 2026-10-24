@@ -18,53 +18,8 @@
 const snacks = [
   {
     emoji: "💲",
-    name: "Buy something ONLINE for a $1 BONUS",
-    price: 1.00,
-    category: "Deals",
-    badge: "Limit one per Person"
-  },
-  {
-    emoji: "🍯",
-    name: "Honeybuns",
-    price: 1.00,
-    category: "Sweets"
-  },
-  {
-    emoji: "🌶️",
-    name: "Spicy Chips",
-    price: 1.00,
-    category: "Chips",
-    badge: "Popular"
-  },
-  {
-    emoji: "🎈",
-    name: "Airheads",
-    price: 2.00,
-    category: "Sweets",
-    badge: "$2 for 3"
-  },
-  {
-    emoji: "🟢",
-    name: "Small Sprite Can",
-    price: 1.00,
-    category: "Drinks"
-  },
-  {
-    emoji: "🟢",
-    name: "Large Soda Bottle",
-    price: 2.00,
-    category: "Drinks"
-  },
-  {
-    emoji: "🟣",
-    name: "Kool Aid",
-    price: 1.00,
-    category: "Drinks"
-  },
-  {
-    emoji: "🍹",
-    name: "AriZona Ice Tea",
-    price: 1.00,
-    category: "Drinks"
+    name: "Buy something ONLINE for an EXTRA $1 of FREE SNACKS",
+    price: 0.00,
+    category: "Deals"
   }
 ];
